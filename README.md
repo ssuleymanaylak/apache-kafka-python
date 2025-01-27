@@ -1,4 +1,4 @@
-# Setup Apache Kafka locallyr
+# Setup Apache Kafka locally
 docker compose up -d
 
 
